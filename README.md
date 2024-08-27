@@ -1,2 +1,2 @@
 # Sorting_algorithms
-Sorting algorithms in data structures
+Sorting algorithms using C 
